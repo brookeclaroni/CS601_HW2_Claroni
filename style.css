@@ -1,5 +1,5 @@
 
-@media (max-width: 1000px) {
+@media (min-width: 800px) {
     img {
         border-radius: 64px;
     }
@@ -89,6 +89,10 @@ a {
 a:hover {
     color:black;
     background-color:pink;
+}
+
+ul {
+    color: white;
 }
 
 #footer {
