@@ -27,6 +27,14 @@ img, video, table {
     margin-right: auto;
 }
 
+img, video {
+    width:50%;
+}
+
+table {
+    width:90%;
+}
+
 body {
     background-color: #232329;
 }
